@@ -64,6 +64,8 @@ Designed for use in labs, CTF environments, and authorized engagements — built
 [✔] HTML Report generated: ./recon_output/report_10.10.11.25.html
 [✔] Scan completed in 4m 32s
 ```
+<img width="1239" height="907" alt="report" src="https://github.com/user-attachments/assets/c0d04851-d2e3-45a1-9442-2c1ea81c90ec" />
+
 
 ---
 
