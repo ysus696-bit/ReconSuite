@@ -192,10 +192,9 @@ recon_output/
 
 ## 👤 Author
 
-**Andres** ([@yisus666-bit](https://github.com/yisus666-bit))  
+**Andres** ([@yisus666-bit])  
 Network & Telecom Engineer transitioning into Cybersecurity  
-eJPT Certified. 
-📍 Costa Rica
+
 ---
 
 ## 📄 License
