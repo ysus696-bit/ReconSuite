@@ -192,7 +192,7 @@ recon_output/
 
 ## 👤 Author
 
-**Andres** ([@yisus666-bit])  
+**Andres** ([@ysus696-bit])  
 Network & Telecom Engineer transitioning into Cybersecurity  
 
 ---
